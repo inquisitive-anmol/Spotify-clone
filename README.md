@@ -1,4 +1,4 @@
-# Spotify Clone
+# Spotify Clone  https://inquisitive-anmol.github.io/Spotify-clone/
 
 This project is a Spotify Clone that I created as part of my learning journey. It is designed to mimic the popular music streaming app, Spotify.
 
